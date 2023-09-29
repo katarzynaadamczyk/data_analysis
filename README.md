@@ -1,6 +1,6 @@
 # DATA ANALYSIS
 
-A folder with all my data analysis projects.
+A folder with my data analysis projects.
 
 ## Table of contents
 * [Chocolate_bars](#chocolate_bars)
