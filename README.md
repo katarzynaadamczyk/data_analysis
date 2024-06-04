@@ -16,6 +16,7 @@ Diabetes analysis I made for ending the workshop from Women In Technology Poland
 
 ## Health_analysis
 Project actually (June 2024) under development. I find interesting connection between health statictics and the possibility of getting a civilization disease such as diabetes. Can we somehow prevent it? 
+Project based on dataset found on Kaggle: https://www.kaggle.com/datasets/prosperchuks/health-dataset/data
 
 ## Lego_Bricks
 Project to somehow analyze Lego bricks.
