@@ -26,7 +26,7 @@ The project contains two analysis. Diabetes_1 is the first one and the result is
 You need to have Python 3 and Jupyter Notebook installed on your computer to see the analysis.
 
 ## Status
-Project is may need to be updated.
+Project will be updated till Christmas 2024. Add enhancement - check performance of other k-means algorithm instead of KNN and make better vizualisations.
 
 ## Inspiration
 As I have a risk to suffer in the future from diabetes it is interesting topic for me. When I found the database on Kaggle, I immediately knew that I would like to analyse this dataset.
