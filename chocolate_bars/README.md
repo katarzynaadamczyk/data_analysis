@@ -25,7 +25,7 @@ Purpose of the project was to learn how to analyse the data and make my second a
 You need to have Python 3 and Jupyter Notebook installed on your computer to see the analysis.
 
 ## Status
-Project is under development
+Finished.
 
 ## Inspiration
 I registered on DataCamp website to learn more about Data Analysis. I found there a competition to analyse the dataset about chocolate bars. As a chocolate enthousiast I decided to take part in it and work on it on my GitHub repository as well. 
