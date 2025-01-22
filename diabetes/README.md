@@ -1,4 +1,4 @@
-# Diabetes analysis
+# Is it possible to predict diabetes?
 Analysis of diabetes.csv (found on Kaggle https://www.kaggle.com/uciml/pima-indians-diabetes-database). 
 Project made for workshop organized by Women In Technology Poland. Then developed more by myself.
 
